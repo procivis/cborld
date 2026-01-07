@@ -1,6 +1,6 @@
 {
   "name": "@procivis/cborld",
-  "version": "7.1.1-0",
+  "version": "7.1.1-1",
   "description": "A CBOR-LD encoder/decoder for react-native.",
   "license": "BSD-3-Clause",
   "author": {

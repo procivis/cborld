@@ -1,6 +1,6 @@
 mkdir ./dist/esm
 cat >dist/esm/index.js <<!EOF
-import cjsModule from '../index.js';
+import cjsModule from '../lib/index.js';
 export const decode = cjsModule.decode;
 export const encode = cjsModule.encode;
 !EOF
